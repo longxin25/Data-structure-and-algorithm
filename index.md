@@ -12,14 +12,14 @@
   
 * 目录
   
-  [准备知识](https://longxin25.github.io/algorithm/docs/01)
+  [准备知识](https://longxin25.github.io/Data-structure-and-algorithm/docs/01)
   
-  [基本数据结构](https://longxin25.github.io/algorithm/docs/02)
+  [基本数据结构](https://longxin25.github.io/Data-structure-and-algorithm/docs/02)
   
-  [常用排序算法](https://longxin25.github.io/algorithm/docs/03)
+  [常用排序方法](https://longxin25.github.io/Data-structure-and-algorithm/docs/03)
   
-  [常用算法思想](https://longxin25.github.io/algorithm/docs/04)
+  [常用算法思想](https://longxin25.github.io/Data-structure-and-algorithm/docs/04)
   
-  [其它](https://longxin25.github.io/algorithm/docs/05)
+  [其它](https://longxin25.github.io/Data-structure-and-algorithm/docs/05)
   
-  [一些高频面试题](https://longxin25.github.io/algorithm/docs/06)
+  [一些高频面试题](https://longxin25.github.io/Data-structure-and-algorithm/docs/06)
